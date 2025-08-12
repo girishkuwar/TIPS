@@ -2,8 +2,6 @@
 # 🧾 C# Cheat Sheet
 📦 Basic Program Structure
 ```csharp
-Copy
-Edit
 using System;
 
 class Program
